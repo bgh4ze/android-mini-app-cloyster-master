@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Cloud\Desktop\android-mini-app-cloyster-master\android-mini-app-cloyster-master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="73b3469b5ebdfedf7254ac55dea3f415c8ccb018">
+        <dex dex="C:\Users\Cloud\Desktop\android-mini-app-cloyster-master\android-mini-app-cloyster-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_e4b664a48e5736eef7579f0e77adc25f98748594\classes.dex" />
+    </item>
+
+</items>
